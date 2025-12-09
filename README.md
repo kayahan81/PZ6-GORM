@@ -48,7 +48,7 @@ PostgreSQL: версия не ниже 14
 Для запуска http нужно выполнить 4 шага:
 ## 1) Клонировать данный репозиторий в удобную для вас папку:
 ```Powershell
-git clone https://github.com/kayahan81/PZ5-baza
+git clone https://github.com/kayahan81/PZ6-GORM
 ```
 ## 2) Перейти в папку http:
 ```Powershell
